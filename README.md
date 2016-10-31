@@ -11,3 +11,6 @@ i. Code structure & quality.
 ii. App architecture.
 iii. Design patterns.
 iv. Adherence to best practices
+
+#Link to Solution
+http://pylebox.com/photocenter/
